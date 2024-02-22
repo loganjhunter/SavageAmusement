@@ -380,6 +380,7 @@
 			<property name="Group" value="Building,advBuilding"/>
 			<property name="DescriptionKey" value="titaniumBlockGroupDesc"/>
 			<property name="Material" value="Mtitanium_shapes"/>
+			<property name="Shape" value="New"/>
 			<property name="DisplayType" value="blockHardened"/>
 			<property name="PassThroughDamage" value="true"/>
 			<property name="CustomIconTint" value="b3f2f2"/>
@@ -434,6 +435,7 @@
 			<property name="Group" value="Building,advBuilding"/>
 			<property name="DescriptionKey" value="unobtainiumBlockGroupDesc"/>
 			<property name="Material" value="Munobtainium_shapes"/>
+			<property name="Shape" value="New"/>
 			<property name="DisplayType" value="blockHardened"/>
 			<property name="PassThroughDamage" value="true"/>
 			<property name="CustomIconTint" value="00ff4a"/>
